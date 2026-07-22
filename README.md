@@ -1,0 +1,2 @@
+# Today-s-Temperature-Prediction-Based-On-Yesterday-s-Report
+This project predicts today's temperature using yesterday's temperature with a Deep Learning LSTM model. Historical temperature data is used to train the model. The predicted temperature is compared with the actual temperature to evaluate the model's performance. This project demonstrates time-series forecasting using Python and Google Colab.
